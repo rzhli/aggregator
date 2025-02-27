@@ -8,7 +8,7 @@ LABEL maintainer="wzdnzd"
 ENV GIST_PAT=""
 
 # github gist info, format: username/gist_id
-ENV GIST_LINK="rzhli/rzhli"
+ENV GIST_LINK=""
 
 # customize airport listing url address
 ENV CUSTOMIZE_LINK=""
